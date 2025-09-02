@@ -3,6 +3,11 @@ A comprehensive collection of data structures for Python implemented in C++
 Current version: 0.0.0 (demo)
 This is simply the template the project will be continued to build on
 
+**PYPI Repo**: https://pypi.org/project/dscol/
+```
+pip install dscol
+```
+
 ## Introduction
 A project I made to try CPython API.
 
